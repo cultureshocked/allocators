@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "chrono": "c",
+        "random": "c",
+        "limits": "c",
+        "algorithm": "c",
+        "leaky.h": "c"
+    },
+    "workbench.colorTheme": "Aura Dark"
+}
