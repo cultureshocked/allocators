@@ -4,6 +4,14 @@ This repository houses two programs that work together:
 - A C program to allocate memory on the heap and output the value of all the pointers along with their sizes and ops
 - A Ruby script that uses `ruby2d` to visualize the output of the C program.
 
+## Screenshots
+
+### Batch Mode
+![A screenshot of the allocator visualizer running with batch-mode](img/batch_alloc.png)
+
+### Random Mode
+![A screenshot of the allocator visualizer running with random-mode](img/random_alloc.png)
+
 ## Dependencies
 
 For the C program, no dependencies needed, besides some standard `libc` installed on your system. The makefile uses gcc
